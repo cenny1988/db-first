@@ -1,7 +1,7 @@
 # db-first
 GOAL: Modellizzare la struttura di una tabella per memorizzare tutti i dati riguardanti delle auto usate messe in vendita da un concessionario
 
-ID: primary key
+ID: primary key\
 Marca: varchar(20) - 
 Modello: varchar(30) - 
 Versione:(es. Plus, Gti, Abarth..) varchar(20) - null
